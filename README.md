@@ -2,6 +2,7 @@
 <!--9:46 WDI3 -->
 <!--9:30 5 minutes-->
 
+<!--WDI5 1:52 -->
 <!--Hook: Remember ES6?  Today we are going to run through the rest of the major improvements of ES6, and we will wrap up with an ES6 quiz.  These improvements will help you DRY out your code, and put a little more power into your 3rd Projects.-->
 
 # ES6 Part 2
@@ -63,6 +64,7 @@ Use both of these concise syntaxes in the exercise below:
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/07-concise-properties-and-methods.js
 
+<!--WDI5 2:02  -->
 <!--9:56 WDI3 -->
 <!--9:45 5 minutes -->
 
@@ -99,6 +101,7 @@ Way easier, right?
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/09-templates.js
 
+<!--WDI5 2:14  -->
 <!--10:10 WDI3 -->
 <!--10:00 10 minutes -->
 
@@ -177,6 +180,7 @@ let add = (x,y) => {
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/11-arrow-functions.js
 
+<!--WDI5 2:34  -->
 <!--10:20 10 minutes -->
 
 ### Spread operator
@@ -240,6 +244,7 @@ console.log(days)
 
 Tweak the values of those variables and test it again.
 
+<!--WDI5 2:52 -->
 <!--10:47 WDI3 -->
 <!--10:35 5 minutes -->
 
